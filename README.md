@@ -12,7 +12,7 @@ springmvc+maven+mysql
 
 ##### 登录界面
 
-![image](https://raw.githubusercontent.com/fuheihei/hotelMaster/master/img-folder/登录界面.png)
+![image](img-folder/登录界面.png)
 
 
 
@@ -20,19 +20,19 @@ springmvc+maven+mysql
 
 1.查看房间，操作房间状态
 
-![image](https://raw.githubusercontent.com/fuheihei/hotelMaster/master/img-folder/查看房间.png)
+![image](img-folder/查看房间.png)
 
 2.添加物品
 
-![image](https://raw.githubusercontent.com/fuheihei/hotelMaster/master/img-folder/添加物品.png)
+![image](img-folder/添加物品.png)
 
 3.添加用户
 
-![image](https://raw.githubusercontent.com/fuheihei/hotelMaster/master/img-folder/添加客户.png)
+![image](img-folder/添加客户.png)
 
 4.添加员工
 
-![image](https://raw.githubusercontent.com/fuheihei/hotelMaster/master/img-folder/添加员工.png)
+![image](img-folder/添加员工.png)
 
 
 
@@ -42,13 +42,13 @@ springmvc+maven+mysql
 
 1.预订房间
 
-![image](https://raw.githubusercontent.com/fuheihei/hotelMaster/master/img-folder/用户预定房间.jpg)
+![image](img-folder/用户预定房间.jpg)
 
 
 
 2.归还客房物品
 
-![image](https://raw.githubusercontent.com/fuheihei/hotelMaster/master/img-folder/归还物品.png)
+![image](img-folder/归还物品.png)
 
 
 
